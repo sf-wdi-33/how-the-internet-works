@@ -120,6 +120,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
         <br>
         <figcaption>The Internet is the actual network that connects computers together and encompasses a wide range of protocols. The World Wide Web only represents a specific protocol on the Application layer of the Internet Protocol Suite.</figcaption>
     </figure>
+    
 </details>
 
 <details>
@@ -206,7 +207,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
         <figcaption>An API is simply the interface for how one interacts with a piece of software. In programming a string of characters, such as `"hello"`, is refered to as a String. From the above example, we see that `.upcase` is part of a String's API.</figcaption>
     </figure>
 </details>
-
+[more info](http://www.webopedia.com/DidYouKnow/Internet/Web_vs_Internet.asp)
 <details>
     <summary>Can you give me a real world example of one?</summary>
     <figure>
